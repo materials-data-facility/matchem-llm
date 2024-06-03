@@ -8,6 +8,7 @@ A public repository collecting links to state-of-the-art training sets, QA, benc
 * [CamelAI - Chemistry](https://huggingface.co/datasets/camel-ai/chemistry): Chemistry dataset is composed of 20K problem-solution pairs obtained using gpt-4. The dataset problem-solutions pairs generating from 25 chemistry topics, 25 subtopics for each topic and 32 problems for each "topic,subtopic" pairs.
 * [ChemData700k](https://huggingface.co/datasets/AI4Chem/ChemData700K?row=0): ChemData is a large-scale chemistry competency instruction tuning dataset for language models, which includes nine chemistry core tasks and 730K high-quality questions and answers, sampled from 1/10 of 7 million pieces of data.
 * [ChemBench4k](https://huggingface.co/datasets/AI4Chem/ChemBench4K): ChemBench is a large-scale chemistry competency evaluation benchmark for language models, which includes nine chemistry core tasks and 4100 high-quality single-choice questions and answers.
+* [ChemBench - Lamalab](https://github.com/lamalab-org/chem-bench): The goal of this project is to add more chemistry benchmark tasks in a BIG-bench compatible way, and develop a pipeline to benchmark frontier and open models.
 
 ## Materials
 * [Battery Device QA](https://huggingface.co/datasets/batterydata/battery-device-data-qa): Battery device records, including anode, cathode, and electrolyte.
@@ -15,6 +16,7 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 * [MaScQA](https://github.com/M3RG-IITD/MaScQA.git): A dataset of 650 challenging questions from the materials domain that require the knowledge and skills of a materials science student who has cleared their undergraduate degree. Questions are classified based on their structure and the materials science domain-based subcategories.
 * [Optical BERT Training Data](https://huggingface.co/datasets/opticalmaterials/test_datasets): Has HF errors, but data are available.
 * [Optical Table QA](https://huggingface.co/datasets/opticalmaterials/OpticalTableQA): 
+* [LLMs for Sustainable Concrete](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) [paper](https://www.researchsquare.com/article/rs-3913272/v1)
 
 ## Multimodal
 * [Wikipedia Materials Multimodal](https://huggingface.co/datasets/lamm-mit/Cephalo-Wikipedia-Materials)
