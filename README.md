@@ -9,6 +9,7 @@ A public repository collecting links to state-of-the-art training sets, QA, benc
 * [ChemData700k](https://huggingface.co/datasets/AI4Chem/ChemData700K?row=0): ChemData is a large-scale chemistry competency instruction tuning dataset for language models, which includes nine chemistry core tasks and 730K high-quality questions and answers, sampled from 1/10 of 7 million pieces of data.
 * [ChemBench4k](https://huggingface.co/datasets/AI4Chem/ChemBench4K): ChemBench is a large-scale chemistry competency evaluation benchmark for language models, which includes nine chemistry core tasks and 4100 high-quality single-choice questions and answers.
 * [ChemBench - Lamalab](https://github.com/lamalab-org/chem-bench): The goal of this project is to add more chemistry benchmark tasks in a BIG-bench compatible way, and develop a pipeline to benchmark frontier and open models.
+* [Chem-RnD and ChemEDU CLAIRify](https://github.com/ac-rad/xdl-generation/tree/master/datasets): Chem-EDU (Everyday Educational Chemistry) - 40 natural language instructions containing only safe (edible) chamicals. Chem-RnD (Chemistry Research & Development) - 108 detailed chemistry-protocols for synthesizing different organic compounds in real-world chemisty labs. This is a subset of Benchmarking results and the XDL XML schema.
 
 ## Materials
 * [Battery Device QA](https://huggingface.co/datasets/batterydata/battery-device-data-qa): Battery device records, including anode, cathode, and electrolyte.
