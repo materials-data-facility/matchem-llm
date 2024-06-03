@@ -13,6 +13,8 @@ A public repository collecting links to state-of-the-art QA and evaluation sets 
 * [Battery Device QA](https://huggingface.co/datasets/batterydata/battery-device-data-qa): Battery device records, including anode, cathode, and electrolyte.
 Examples of the question answering evaluation dataset: {'question': 'What is the cathode?', 'answer': 'Al foil', 'context': 'The blended slurry was then cast onto a clean current collector (Al foil for the cathode and Cu foil for the anode) and dried at 90 °C under vacuum overnight.', 'start index': 645}
 * [MaScQA](https://github.com/M3RG-IITD/MaScQA.git): A dataset of 650 challenging questions from the materials domain that require the knowledge and skills of a materials science student who has cleared their undergraduate degree. Questions are classified based on their structure and the materials science domain-based subcategories.
+* [Optical BERT Training Data](https://huggingface.co/datasets/opticalmaterials/test_datasets): Has HF errors, but data are available.
+* [Optical Table QA](https://huggingface.co/datasets/opticalmaterials/OpticalTableQA): 
 
 ## Multimodal
 * [Wikipedia Materials Multimodal](https://huggingface.co/datasets/lamm-mit/Cephalo-Wikipedia-Materials)
