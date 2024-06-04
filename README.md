@@ -18,6 +18,7 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 * [Optical BERT Training Data](https://huggingface.co/datasets/opticalmaterials/test_datasets): Has HF errors, but data are available.
 * [Optical Table QA](https://huggingface.co/datasets/opticalmaterials/OpticalTableQA): 
 * [LLMs for Sustainable Concrete](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) [paper](https://www.researchsquare.com/article/rs-3913272/v1)
+* [PNCExtract: Extracting Polymer Nanocomposite Samples from Articles](https://github.com/ghazalkhalighinejad/PNCExtract): The contains a manually curated list of samples for each PNC article. The data is divided into 52 validation articles and 151 test articles.
 
 ## Multimodal
 * [Wikipedia Materials Multimodal](https://huggingface.co/datasets/lamm-mit/Cephalo-Wikipedia-Materials)
