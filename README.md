@@ -25,4 +25,8 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 ## Unknown Quality
 [Chemistry Dataset from Andrersonbcedef](https://huggingface.co/datasets/andersonbcdefg/chemistry)
 
+## Contributing Guidelines
+Add other resources to the list by 1. forking the repository and creating a pull request back to the main repository or 2. create an issue with the markdown that should be added to the repository and one of the admins will add to the main document.
+
+If you would like to help maintain this repository, open an issue expressing your interest and we will reach out to you!
 
