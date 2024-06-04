@@ -26,6 +26,12 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 ## Unknown Quality
 [Chemistry Dataset from Andrersonbcedef](https://huggingface.co/datasets/andersonbcdefg/chemistry)
 
+## Ethics and Dual Use Concerns
+Ensuring safe usage of data is of paramount concern, especially for the chemistry data included in this list. We encourage all users of these data to read papers by e.g., Gabe Gomes et al. [1,2] on the potential dangers of dual use before constructing their datasets or models. If you have concerns about potential dual use of any of the datasets listed, create an issue and we will do our best to evaluate the safety concerns, remove the data, or consult with outside experts if necessary.
+
+[1] [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/2304.05332)
+[2] [Censoring chemical data to mitigate dual use risk](https://arxiv.org/2304.10510).
+
 ## Contributing Guidelines
 Add other resources to the list by 1. forking the repository and creating a pull request back to the main repository or 2. create an issue with the markdown that should be added to the repository and one of the admins will add to the main document.
 
