@@ -26,6 +26,12 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 ## Unknown Quality
 [Chemistry Dataset from Andrersonbcedef](https://huggingface.co/datasets/andersonbcdefg/chemistry)
 
+## Community Needs
+This is an area for relatively "open comments" one community needs.
+* One good thing to add would be a benchmark set for weak interactions between aminoacids in proteins, if it exists. [(Marcos Veríssimo Alves)](https://www.linkedin.com/feed/update/urn:li:activity:7203787267348267008?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7203787267348267008%2C7203843329195675649%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287203843329195675649%2Curn%3Ali%3Aactivity%3A7203787267348267008%29)
+ 
+
+
 ## Ethics and Dual Use Concerns
 Ensuring safe usage of data is of paramount concern, especially for the chemistry data included in this list. We encourage all users of these data to read papers by e.g., Gabe Gomes et al. [1,2] on the potential dangers of dual use before constructing their datasets or models. If you have concerns about potential dual use of any of the datasets listed, create an issue and we will do our best to evaluate the safety concerns, remove the data, or consult with outside experts if necessary.
 
