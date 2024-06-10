@@ -42,7 +42,9 @@ Ensuring safe usage of data is of paramount concern, especially for the chemistr
 [2] [Censoring chemical data to mitigate dual use risk](https://arxiv.org/2304.10510).
 
 ## Contributing Guidelines
-Add other resources to the list by 1. forking the repository and creating a pull request back to the main repository or 2. create an issue with the markdown that should be added to the repository and one of the admins will add to the main document.
+Add other resources to the list by: 
+1. forking the repository and creating a pull request back to the main repository or,
+2. creating an issue with the markdown that should be added to the repository and one of the admins will add to the main document.
 
 If you would like to help maintain this repository, open an issue expressing your interest and we will reach out to you!
 
