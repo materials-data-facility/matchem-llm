@@ -19,7 +19,9 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 * [Optical Table QA](https://huggingface.co/datasets/opticalmaterials/OpticalTableQA): 
 * [LLMs for Sustainable Concrete](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) [paper](https://www.researchsquare.com/article/rs-3913272/v1)
 * [PNCExtract: Extracting Polymer Nanocomposite Samples from Articles](https://github.com/ghazalkhalighinejad/PNCExtract): The contains a manually curated list of samples for each PNC article. The data is divided into 52 validation articles and 151 test articles.
+### Materials Knowledge Graphs
 * [MatKG](https://github.com/olivettigroup/MatKG): MatKG is a comprehensive Knowledge Graph of Materials Science that captures a diverse range of entities and relationships from scientific literature. MatKG includes materials, properties, applications, characterization methods, synthesis methods, symmetry phase labels, and descriptors, among other entities, which are extracted automatically using advanced natural language processing methods from over 5 million papers in the domain.
+* [MGED-KG](https://zenodo.org/records/11315713): Materials Genome Engineering Database Knowledge Graph (MGED-KG), which is automatically constructed from text corpus via natural language processing. MGED-KG is the most comprehensive KG for materials terminology in both Chinese and English languages, consisting of 8,660 terms and their explanations. It encompasses 11 principal categories, such as Metals, Composites, Nanomaterials, each with two or three levels of subcategories, resulting in a total of 235 distinct category labels. **(web page was not working when checked on Jun 10, 2024, but code/data are available on Zenodo)**
 
 ## Multimodal
 * [Wikipedia Materials Multimodal](https://huggingface.co/datasets/lamm-mit/Cephalo-Wikipedia-Materials)
