@@ -10,6 +10,8 @@ A public repository collecting links to state-of-the-art training sets, QA, benc
 * [ChemBench4k](https://huggingface.co/datasets/AI4Chem/ChemBench4K): ChemBench is a large-scale chemistry competency evaluation benchmark for language models, which includes nine chemistry core tasks and 4100 high-quality single-choice questions and answers.
 * [ChemBench - Lamalab](https://github.com/lamalab-org/chem-bench):  A benchmark with more than 7000 questions, manually curated for various chemical topics. Covering multi-choice and free-form questions. Supports models as well as tool-augmented systems. Provides [leaderboards](https://lamalab-org.github.io/chem-bench/leaderboard/) and [human baseline](https://chembench.org/). See [paper](https://arxiv.org/abs/2404.01475) for more details.
 * [Chem-RnD and ChemEDU CLAIRify](https://github.com/ac-rad/xdl-generation/tree/master/datasets): Chem-EDU (Everyday Educational Chemistry) - 40 natural language instructions containing only safe (edible) chamicals. Chem-RnD (Chemistry Research & Development) - 108 detailed chemistry-protocols for synthesizing different organic compounds in real-world chemisty labs. This is a subset of Benchmarking results and the XDL XML schema.
+* [ChemCrow](https://github.com/ur-whitelab/chemcrow-public): ChemCrow is an open source package for the accurate solution of reasoning-intensive chemical tasks. Built with Langchain, it uses a collection of chemical tools including RDKit, paper-qa, as well as some relevant databases in chemistry, like Pubchem and chem-space.
+
 
 ## Materials
 * [Battery Device QA](https://huggingface.co/datasets/batterydata/battery-device-data-qa): Battery device records, including anode, cathode, and electrolyte.
