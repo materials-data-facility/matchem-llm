@@ -16,6 +16,8 @@ A public repository collecting links to state-of-the-art training sets, QA, benc
 * [GPQA](https://github.com/idavidrein/gpqa/): GPQA (Google-Proof Q&A) is a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are "Google-proof"). [paper](https://arxiv.org/abs/2311.12022)
 * [LLM-Esterification](https://github.com/Mantas-it/LLM_Esterification): The LLM-Esterification dataset is comprised of 1200 samples linking SMILES to output synthesis procedures. [paper](https://doi.org/2076-3417/13/24/13140)
 
+### Chemistry Knowledge Graphs
+* [Global Chem](https://github.com/Global-Chem/global-chem): Global Chem is a public dictionary of common chemical lists using the Common Chemical Name as input and SMILES/SMARTS as output organized by their respective community in a knowledge graph.
 
 ## Materials
 * [Battery Device QA](https://huggingface.co/datasets/batterydata/battery-device-data-qa): Battery device records, including anode, cathode, and electrolyte.
