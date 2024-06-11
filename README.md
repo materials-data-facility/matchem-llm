@@ -37,6 +37,7 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 * [Optical Table QA](https://huggingface.co/datasets/opticalmaterials/OpticalTableQA): 
 * [LLMs for Sustainable Concrete](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) [paper](https://www.researchsquare.com/article/rs-3913272/v1)
 * [PNCExtract: Extracting Polymer Nanocomposite Samples from Articles](https://github.com/ghazalkhalighinejad/PNCExtract): The contains a manually curated list of samples for each PNC article. The data is divided into 52 validation articles and 151 test articles.
+
 ### Materials Knowledge Graphs
 * [MatKG](https://github.com/olivettigroup/MatKG): MatKG is a comprehensive Knowledge Graph of Materials Science that captures a diverse range of entities and relationships from scientific literature. MatKG includes materials, properties, applications, characterization methods, synthesis methods, symmetry phase labels, and descriptors, among other entities, which are extracted automatically using advanced natural language processing methods from over 5 million papers in the domain.
 * [MGED-KG](https://zenodo.org/records/11315713): Materials Genome Engineering Database Knowledge Graph (MGED-KG), which is automatically constructed from text corpus via natural language processing. MGED-KG is the most comprehensive KG for materials terminology in both Chinese and English languages, consisting of 8,660 terms and their explanations. It encompasses 11 principal categories, such as Metals, Composites, Nanomaterials, each with two or three levels of subcategories, resulting in a total of 235 distinct category labels. **(web page was not working when checked on Jun 10, 2024, but code/data are available on Zenodo)**
@@ -44,22 +45,22 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 ## Multimodal
 * [Wikipedia Materials Multimodal](https://huggingface.co/datasets/lamm-mit/Cephalo-Wikipedia-Materials)
 
-## ❓ Unknown Quality
+## Unknown Quality
 [Chemistry Dataset from Andrersonbcedef](https://huggingface.co/datasets/andersonbcdefg/chemistry)
 
-## 👥 Community Needs
+## Community Needs
 This is an area for relatively "open comments" one community needs.
 * One good thing to add would be a benchmark set for weak interactions between aminoacids in proteins, if it exists. [(Marcos Veríssimo Alves)](https://www.linkedin.com/feed/update/urn:li:activity:7203787267348267008?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7203787267348267008%2C7203843329195675649%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287203843329195675649%2Curn%3Ali%3Aactivity%3A7203787267348267008%29)
  
 
 
-## ⚖️ Ethics and Dual Use Concerns
+## Ethics and Dual Use Concerns
 Ensuring safe usage of data is of paramount concern, especially for the chemistry data included in this list. We encourage all users of these data to read papers by e.g., Gabe Gomes et al. [1,2] on the potential dangers of dual use before constructing their datasets or models. If you have concerns about potential dual use of any of the datasets listed, create an issue and we will do our best to evaluate the safety concerns, remove the data, or consult with outside experts if necessary.
 
 [1] [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/2304.05332)
 [2] [Censoring chemical data to mitigate dual use risk](https://arxiv.org/2304.10510).
 
-## 🤝 Contributing Guidelines
+## Contributing Guidelines
 Add other resources to the list by: 
 1. forking the repository and creating a pull request back to the main repository or,
 2. creating an issue with the markdown that should be added to the repository and one of the admins will add to the main document.
