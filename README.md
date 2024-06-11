@@ -37,6 +37,7 @@ Examples of the question answering evaluation dataset: {'question': 'What is the
 * [Optical Table QA](https://huggingface.co/datasets/opticalmaterials/OpticalTableQA): 
 * [LLMs for Sustainable Concrete](https://github.com/BAMcvoelker/LLM-s-can-Design-Sustainable-Concrete-a-Systematic-Benchmark-Code-) [paper](https://www.researchsquare.com/article/rs-3913272/v1)
 * [PNCExtract: Extracting Polymer Nanocomposite Samples from Articles](https://github.com/ghazalkhalighinejad/PNCExtract): The contains a manually curated list of samples for each PNC article. The data is divided into 52 validation articles and 151 test articles.
+* [LLaMP](https://github.com/chiang-yuan/llamp): LLaMP is a multimodal retrieval-augmented generation (RAG) framework of hierarchical ReAct agents that can dynamically and recursively interact with Materials Project to ground LLMs on high-fidelity materials informatics.
 
 ### Materials Knowledge Graphs
 * [MatKG](https://github.com/olivettigroup/MatKG): MatKG is a comprehensive Knowledge Graph of Materials Science that captures a diverse range of entities and relationships from scientific literature. MatKG includes materials, properties, applications, characterization methods, synthesis methods, symmetry phase labels, and descriptors, among other entities, which are extracted automatically using advanced natural language processing methods from over 5 million papers in the domain.
