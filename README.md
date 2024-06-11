@@ -1,11 +1,15 @@
 # 🧱🧪 Materials Science and Chemistry LLM Resources
 A public repository collecting links to state-of-the-art training sets, QA, benchmarks and other evaluations for various ML and LLM applications in materials science and chemistry.
 
-- [Chemistry](#chemistry)
-  - [Chemistry Knowledge Graphs](#chemistry-knowledge-graphs)
-
-# 🧪 Materials Science and Chemistry LLM Resources
-A public repository collecting links to state-of-the-art training sets, QA, benchmarks and other evaluations for various ML and LLM applications in materials science and chemistry.
+## Table of Contents
+- [🧪 Chemistry](#chemistry)
+  - [🕸️ Chemistry Knowledge Graphs](#chemistry-knowledge-graphs)
+- [🧱Materials](#materials)
+  - [🕸️ Materials Knowledge Graphs](#materials-knowledge-graphs)
+- [Multimodal](#multimodal)
+- [👥 Community Needs](#community-needs)
+- [⚖️ Ethics and Dual Use Concerns](#ethics-and-dual-use-concerns)
+- [🤝 Contributing Guidelines](#contributing-guidelines)   
 
 ## 🧪 Chemistry
 * [ChemQA](https://huggingface.co/datasets/shangzhu/ChemQA): ChemQA is a Multimodal Question-and-Answering dataset on chemistry reasoning. This work is inspired by IsoBench and ChemLLMBench. Containts 5 QA Tasks in total: Counting Numbers of Carbons and Hydrogens in Organic Molecules, Calculating Molecular Weights in Organic Molecules, Name Conversion: From SMILES to IUPAC, Molecule Captioning and Editing, and retro-synthesis Planning: inspired by [2], adapted from dataset provided in [4], following the same training, validation and evaluation splits.
