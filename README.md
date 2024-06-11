@@ -2,16 +2,16 @@
 A public repository collecting links to state-of-the-art training sets, QA, benchmarks and other evaluations for various ML and LLM applications in materials science and chemistry.
 
 ## Table of Contents
-- [🧪 Chemistry](#chemistry)
-  - [🕸️ Chemistry Knowledge Graphs](#chemistry-knowledge-graphs)
-- [🧱Materials](#materials)
-  - [🕸️ Materials Knowledge Graphs](#materials-knowledge-graphs)
+- [🧪Chemistry](#-chemistry)
+  - [🕸️Chemistry Knowledge Graphs](#-chemistry-knowledge-graphs)
+- [🧱Materials](#-materials)
+  - [🕸️Materials Knowledge Graphs](#-materials-knowledge-graphs)
 - [Multimodal](#multimodal)
-- [👥 Community Needs](#community-needs)
-- [⚖️ Ethics and Dual Use Concerns](#ethics-and-dual-use-concerns)
-- [🤝 Contributing Guidelines](#contributing-guidelines)   
+- [👥Community Needs](#-community-needs)
+- [⚖️Ethics and Dual Use Concerns](#-ethics-and-dual-use-concerns)
+- [🤝Contributing Guidelines](#-contributing-guidelines)
 
-## 🧪 Chemistry
+## 🧪Chemistry
 * [ChemQA](https://huggingface.co/datasets/shangzhu/ChemQA): ChemQA is a Multimodal Question-and-Answering dataset on chemistry reasoning. This work is inspired by IsoBench and ChemLLMBench. Containts 5 QA Tasks in total: Counting Numbers of Carbons and Hydrogens in Organic Molecules, Calculating Molecular Weights in Organic Molecules, Name Conversion: From SMILES to IUPAC, Molecule Captioning and Editing, and retro-synthesis Planning: inspired by [2], adapted from dataset provided in [4], following the same training, validation and evaluation splits.
 * [ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench): A comprehensive benchmark on eight chemistry tasks
 * [SMolInstruct](https://huggingface.co/datasets/osunlp/SMolInstruct): SMolInstruct is a large-scale, comprehensive, and high-quality instruction tuning dataset crafted for chemistry. It centers around small molecules, and contains 14 meticulously selected tasks and over 3M samples. This dataset has both SMILES and SELFIES versions, and you could switch to SELFIES by using use_selfies=True when loading. Tasks include name conversion, property prediction, molecule description, and chemical reaction prediction.
@@ -26,7 +26,7 @@ A public repository collecting links to state-of-the-art training sets, QA, benc
 * [GPQA](https://github.com/idavidrein/gpqa/): GPQA (Google-Proof Q&A) is a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are "Google-proof"). [paper](https://arxiv.org/abs/2311.12022)
 * [LLM-Esterification](https://github.com/Mantas-it/LLM_Esterification): The LLM-Esterification dataset is comprised of 1200 samples linking SMILES to output synthesis procedures. [paper](https://doi.org/2076-3417/13/24/13140)
 
-### 🕸️ Chemistry Knowledge Graphs
+### 🕸️Chemistry Knowledge Graphs
 * [Global Chem](https://github.com/Global-Chem/global-chem): Global Chem is a public dictionary of common chemical lists using the Common Chemical Name as input and SMILES/SMARTS as output organized by their respective community in a knowledge graph.
 
 ## Materials
